@@ -483,9 +483,12 @@
     margin-bottom: 65px;
 }
 .footer-inner-col p{
-    margin-top: 20px;
+    margin-top: 35px;
     color: #999999;
     line-height: 1.5;
+}
+.footer-inner-col p:last-child{
+    margin-top: 28px;
 }
 .footer-inner-col h3{
     text-transform: uppercase;

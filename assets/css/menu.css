@@ -232,7 +232,12 @@ i {
 .content-1 {
 
 }
-
+#menu-text2{
+    font-family: "Work Sans" , 'serif' !important;
+    color: #ffffff !important;
+    font-weight: 500;
+    text-transform: uppercase;
+}
 .soups-img {
     display: flex;
     justify-content: end;

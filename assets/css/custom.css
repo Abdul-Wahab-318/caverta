@@ -546,7 +546,9 @@
     }
 }
 
-
+.navbar .inactive{
+    color: #beb8b8;
+}
 
 @media (min-width : 900px ) and (max-width : 1200px)
 {
